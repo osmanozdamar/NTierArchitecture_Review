@@ -1,0 +1,9 @@
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\Models\obj\Debug\netcoreapp3.1\Models.pdb

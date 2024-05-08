@@ -1,0 +1,15 @@
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\osman.OSMAN\Desktop\DersTekrarlarıVisualStudio\NTierArch_08052024_Ders_Tekrari\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
